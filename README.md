@@ -1,2 +1,7 @@
 # linebot-aws-work
-AWS上でのpythonを利用したlinebotの技術検証
+
+- AWSのlamdaを利用したlinebotサーバレスアプリの技術検証
+
+## 使用言語
+
+- python
